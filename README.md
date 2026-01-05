@@ -159,22 +159,15 @@ rev=0
 temp=num 
 
 while temp>0: 
-
     rev=(10*rev)+temp%10 
-
     temp//=10 
-
     if rev==num: 
-
         print("The given number {} is a Palindrome".format(num)) 
-
     else: 
-
         print("The given number {} is not a palindrome".format(num))
 ```
 ## Output
-![Screenshot 2025-05-02 142336](https://github.com/user-attachments/assets/6f8280be-42ce-4dd7-8994-26d3695d466e)
-
+<img width="593" height="114" alt="image" src="https://github.com/user-attachments/assets/f60032d7-054c-491d-afa2-7c1dd1ab3855" />
 
 ## Result
-Thus, the program has been successfully executed .
+Thus, the program has been successfully executed
