@@ -174,5 +174,7 @@ while temp>0:
 ```
 ## Output
 ![Screenshot 2025-05-02 142336](https://github.com/user-attachments/assets/6f8280be-42ce-4dd7-8994-26d3695d466e)
+
+
 ## Result
 Thus, the program has been successfully executed .
